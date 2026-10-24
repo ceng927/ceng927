@@ -1,152 +1,114 @@
 <div align="center">
 
-<!-- 標題區 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=KUN-CHIE+%7C+AI+%26+SECURITY+LAB;Building+Trustworthy+AI;Defending+at+Hardware+Level;THINK+%C2%B7+BUILD+%C2%B7+TEST+%C2%B7+IMPROVE" alt="Typing SVG" />
+# KUN-CHIE｜ceng927
+### 高中生・AI Security × Cybersecurity × Hardware Security
 
-<br><br>
+**特殊選才申請用個人開發與研究檔案**
 
-**Student Developer · AI Security · Cybersecurity · Hardware Security**
-
-[![GitHub](https://img.shields.io/badge/GitHub-ceng927-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ceng927)
-[![Status](https://img.shields.io/badge/Status-Actively%20Building-00C7FF?style=for-the-badge)](https://github.com/ceng927)
-[![Focus](https://img.shields.io/badge/Focus-AI%20Security-7C3AED?style=for-the-badge)](https://github.com/ceng927)
+[![GitHub](https://img.shields.io/badge/GitHub-ceng927-181717?style=for-the-badge&logo=github)](https://github.com/ceng927)
+[![Focus](https://img.shields.io/badge/研究主軸-AI%20Security-0A66C2?style=for-the-badge)](https://github.com/ceng927)
+[![Status](https://img.shields.io/badge/目前狀態-持續研究與實作中-00A86B?style=for-the-badge)](https://github.com/ceng927)
 
 </div>
 
 ---
 
-### About Me
+## 關於我
 
-嗨，我是 **KUN-CHIE**（ceng927），一名高中生開發者。
+我是一名高中生，目前專注於 **AI 安全、資安與硬體安全** 的交叉領域。
 
-我把 GitHub 當作自己的實驗場，專注於：
+我把 GitHub 當作自己的實驗與學習紀錄平台，目標不是做出很多「看起來厲害」的專案，而是真正理解：
 
-- **AI Security** — Prompt Injection、模型安全、Trustworthy AI
-- **Cybersecurity** — 網路分析、防禦性安全、威脅偵測
-- **Hardware Security** — 嵌入式系統、裝置安全、低階攻擊與防禦
-- **Smart Systems** — Raspberry Pi、Arduino、IoT 實作
+- AI 系統可能如何被攻擊與防禦
+- 硬體層級的安全漏洞如何被利用與防護
+- 如何把理論轉化成可重現、可驗證的實驗
 
-我相信：**真正的安全，必須從硬體與 AI 底層一起思考。**
-
----
-
-### Research Focus
-
-| 領域 | 目前興趣與方向 |
-|------|----------------|
-| **AI Security** | Prompt Injection 防禦、AI 威脅偵測、模型行為分析 |
-| **Cybersecurity** | 網路流量分析、防禦機制、日誌與異常偵測 |
-| **Hardware Security** | Embedded 安全、Attiny / MCU 實驗、裝置側攻擊面 |
-| **Smart Systems** | Raspberry Pi + Arduino 整合、IoT 安全實作 |
+我相信安全不能只停留在軟體層，必須同時從 **AI、網路、硬體** 三個面向一起思考。
 
 ---
 
-### Tech Stack
+## 研究與學習主軸
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+| 領域 | 目前關注方向 | 實作狀態 |
+|------|--------------|----------|
+| **AI Security** | Prompt Injection、模型行為分析、Trustworthy AI | 研究與實驗中 |
+| **Cybersecurity** | 網路分析、防禦機制、異常偵測 | 基礎實作中 |
+| **Hardware Security** | 嵌入式系統安全、MCU 攻擊面、裝置安全 | 已有實作專案 |
+| **Smart Systems** | Raspberry Pi、Arduino、IoT 整合 | 持續實作 |
 
 ---
 
-### Featured Projects
+## 代表專案
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔐 Attiny85 WiFi Extractor</h3>
-      <p>使用 Attiny85 實作的 WiFi 憑證提取實驗工具<br>
-      探索硬體層面的資訊安全攻擊面</p>
-      <a href="https://github.com/ceng927/Attiny85-WiFi-Extractor">
-        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🧠 AI Security Lab</h3>
-      <p>Prompt Injection 測試、模型行為分析與防禦實驗<br>
-      持續擴充中的 AI 安全研究空間</p>
-      <a href="https://github.com/ceng927">
-        <img src="https://img.shields.io/badge/Coming_Soon-7C3AED?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ Hardware Security Lab</h3>
-      <p>嵌入式裝置安全實驗、MCU 攻擊與防禦研究</p>
-      <a href="https://github.com/ceng927">
-        <img src="https://img.shields.io/badge/Coming_Soon-00C7FF?style=for-the-badge" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>📡 Network Analysis Lab</h3>
-      <p>流量分析、異常偵測與防禦性網路安全實作</p>
-      <a href="https://github.com/ceng927">
-        <img src="https://img.shields.io/badge/Coming_Soon-00C7FF?style=for-the-badge" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 1. Attiny85 WiFi Extractor
+**硬體安全實驗專案**
+
+使用 Attiny85 實作 WiFi 憑證提取實驗，探索硬體層面的資訊安全攻擊面。  
+這是我目前最具體的硬體安全實作成果。
+
+→ [專案連結](https://github.com/ceng927/Attiny85-WiFi-Extractor)
+
+### 2. AI Security Lab（進行中）
+針對 Prompt Injection 與 LLM 行為進行實驗與分析，目標建立可重現的測試環境與防禦思路。
+
+### 3. Hardware Security Lab（規劃中）
+持續擴充嵌入式裝置的安全實驗，包含攻擊與防禦兩方面。
 
 ---
 
-### GitHub Analytics
+## 技術能力
+
+**程式語言**  
+Python · C · C++ · Java
+
+**硬體與系統**  
+Raspberry Pi · Arduino · Linux · Embedded Systems
+
+**研究方向**  
+AI Security · Cybersecurity · Hardware Security · IoT Security
+
+---
+
+## 學習與成長紀錄
+
+我目前的學習方式是：
+
+1. **先動手實作** → 從硬體與底層開始理解
+2. **再回頭補理論** → 把現象與原理對應起來
+3. **持續記錄與反思** → 把過程公開在 GitHub
+
+我把每一次實驗都當作「可驗證的學習證據」，而不是只追求結果。
+
+---
+
+## GitHub 活動概況
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ceng927&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceng927&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ceng927&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ceng927&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&icon_color=0A66C2&text_color=333333" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceng927&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0A66C2&text_color=333333" />
 </div>
 
 ---
 
-### Contribution Snake
+## 未來規劃（特殊選才相關）
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ceng927/ceng927/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 如果 Snake 沒顯示，請到 repo 的 **Actions** 啟用 [Platane/snk](https://github.com/Platane/snk) workflow。
-
----
-
-### Current Focus
-
-- 深入研究 **Prompt Injection** 與 LLM 安全
-- 持續擴充 **Hardware Security Lab**
-- 把理論變成可重現的實驗專案
-- 讓安全從「概念」變成「可驗證的系統」
+- 持續深化 **AI Security** 與 **Hardware Security** 的交叉研究
+- 把目前的實驗專案整理成更完整的研究紀錄與報告
+- 希望未來能進入具備資安 / AI 安全研究能量的大學環境，繼續往這個方向發展
+- 長期目標是成為能同時理解 AI 與硬體安全的研究者或工程師
 
 ---
 
-### Connect
+## 聯絡方式
 
-<p align="center">
-  <a href="https://github.com/ceng927">
-    <img src="https://img.shields.io/badge/GitHub-ceng927-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+GitHub：[@ceng927](https://github.com/ceng927)
 
 ---
 
 <div align="center">
 
-**Building a more secure digital world — one experiment at a time.**
+**「安全不是口號，而是可以驗證的系統。」**
 
-<br>
-
-*「真正的安全，從來不是口號，而是可驗證的系統。」*
+我正在用每一次的實驗，證明自己值得被特殊選才看見。
 
 </div>
